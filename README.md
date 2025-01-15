@@ -66,7 +66,7 @@ BibTeX entry for citation:
   doi = {10.1103/PhysRevB.110.054204},
   url = {https://link.aps.org/doi/10.1103/PhysRevB.110.054204}
 }
-
+```
 
 # License
 DiscreteCTWAPaper © 2024 by Adrian Braemer and Javad Vahedi is licensed under [MIT license](https://opensource.org/license/mit).
