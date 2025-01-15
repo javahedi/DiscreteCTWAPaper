@@ -43,7 +43,30 @@ everything should work out of the box, including correctly finding local paths.
 Folder containing the data. Currently, only averages for the statistical analysis part of the paper are included due to file size limitations. Full data is available by reasonable request.
 
 # Citing
-See `cite.bib` (not yet created - will update once paper is published).
+
+If you use this work in your research, please cite the following paper:
+
+**Cluster truncated Wigner approximation for bond-disordered Heisenberg spin models**  
+*Phys. Rev. B 110, 054204 (2024)*  
+[DOI: https://doi.org/10.1103/PhysRevB.110.054204](https://doi.org/10.1103/PhysRevB.110.054204)
+
+BibTeX entry for citation:
+```bibtex
+@article{PhysRevB.110.054204,
+  title = {Cluster truncated Wigner approximation for bond-disordered Heisenberg spin models},
+  author = {Braemer, Adrian and Vahedi, Javad and G\"arttner, Martin},
+  journal = {Phys. Rev. B},
+  volume = {110},
+  issue = {5},
+  pages = {054204},
+  numpages = {14},
+  year = {2024},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.110.054204},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.110.054204}
+}
+
 
 # License
 DiscreteCTWAPaper © 2024 by Adrian Braemer and Javad Vahedi is licensed under [MIT license](https://opensource.org/license/mit).
